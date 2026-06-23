@@ -81,4 +81,4 @@ Implementado:
 
 ## Licença
 
-Projeto de estudo, sem licença definida.
+Distribuído sob a licença [MIT](LICENSE).
